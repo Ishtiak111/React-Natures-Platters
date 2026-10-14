@@ -1,0 +1,56 @@
+[
+  {
+    "productImg": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "title": "Wireless Headphones",
+    "price": 2500,
+    "rating": 4.5
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "title": "Smart Watch",
+    "price": 3500,
+    "rating": 4.2
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "title": "Running Shoes",
+    "price": 4200,
+    "rating": 4.7
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    "title": "Travel Backpack",
+    "price": 1800,
+    "rating": 4.3
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+    "title": "Mechanical Keyboard",
+    "price": 5500,
+    "rating": 4.8
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400",
+    "title": "Wireless Mouse",
+    "price": 1200,
+    "rating": 4.1
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+    "title": "Bluetooth Speaker",
+    "price": 2200,
+    "rating": 4.4
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400",
+    "title": "Classic Sunglasses",
+    "price": 900,
+    "rating": 4.0
+  },
+  {
+    "productImg": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=400",
+    "title": "Classic Wrist Watch",
+    "price": 2800,
+    "rating": 4.6
+  }
+]
